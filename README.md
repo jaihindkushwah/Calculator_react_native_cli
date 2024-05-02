@@ -4,7 +4,13 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## 1.) Download
    [drive link(https://drive.google.com/file/d/1E12seGxvLWZJ7DvDJyhrl4WSzJ6ibHXY/view?usp=sharing)]
-## demo screen-shots
+## 2.) Demo screen-shots
+   #### Home page
+   ![] (https://github.com/jaihindkushwah/Calculator_react_native_cli/blob/main/screen-shots/home_page.jpg)
+
+   #### Logo 
+   ![](https://github.com/jaihindkushwah/Calculator_react_native_cli/blob/main/screen-shots/logo.jpg)
+   
 
 # Getting Started
 
